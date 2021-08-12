@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Amy59
 - 👀 I’m interested in Cloud Technologies
-- 🌱 I’m currently learning Security+
-- 💞️ I’m looking to collaborate on Playbooks AZ Sen
+- 🌱 I’m currently learning Cloud
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
